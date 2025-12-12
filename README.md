@@ -39,23 +39,20 @@ This artifact comes from CS 340 and showcases full-stack software development an
 These documents represent the written milestone narratives submitted throughout the CS 499 capstone course.
 
 ## Module One – Initial Planning
-- [CS 499 Module One Assignment](word/CS%20499%20Module%20One%20Assignment.docx)  
+- [CS 499 Module One Assignment](docs/word/CS%20499%20Module%20One%20Assignment.docx)  
   This document outlines the initial ePortfolio plan, artifact selection, and alignment with program outcomes.
 
 ## Milestone Two – Software Design and Engineering
-- [CS 499 Milestone Two](word/CS%20499%20Milestone%20Two.docx)  
+- [CS 499 Milestone Two](docs/word/CS%20499%20Milestone%20Two.docx)  
   This narrative explains enhancements related to software architecture, maintainability, and design principles.
 
 ## Milestone Three – Algorithms and Data Structures
-- [Milestone Three – Algorithms and Data Structures Enhancement](word/Milestone%20Three_%20Algorithms%20and%20Data%20Structures%20Enhancement.docx)  
+- [Milestone Three – Algorithms and Data Structures Enhancement](docs/word/Milestone%20Three_%20Algorithms%20and%20Data%20Structures%20Enhancement.docx)  
   This milestone focuses on improving efficiency, data handling, and algorithmic structure.
 
 ## Milestone Four – Databases
-- [CS 499 Milestone Four](word/CS%20499%20Milestone%20Four%20.docx)  
+- [CS 499 Milestone Four](docs/word/CS%20499%20Milestone%20Four%20.docx)  
   This document discusses database integration, data persistence, and backend improvements.
-
-
-These documents provide detailed narratives that explain the rationale for artifact selection, the enhancement process, the challenges encountered, and the learning outcomes achieved for each milestone.
 
 ---
 
