@@ -56,4 +56,4 @@ These documents provide detailed narratives that explain the rationale for artif
 
 ## Overview
 
-Together, these artifacts and narratives illustrate my ability to design and enhance software systems, implement efficient algorithms, work with database-driven applications, and communicate technical concepts clearly and professionally. This ePortfolio represents the culmination of my computer science studies and my readiness for professional practice in the field.
+These artifacts and narratives illustrate my ability to design and enhance software systems, implement efficient algorithms, work with database-driven applications, and communicate technical concepts clearly and professionally. This ePortfolio represents the culmination of my computer science studies and my readiness for professional practice in the field.
