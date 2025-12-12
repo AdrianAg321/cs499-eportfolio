@@ -9,8 +9,8 @@ This repository contains my CS 499 Computer Science Capstone ePortfolio for Sout
 - [Professional Self-Assessment](docs/self-assessment.md)
 
 ## Capstone Artifacts
-- [CS 300 Artifact – Data Structures and Algorithms](cs300-artifact.md)
-- [CS 340 Artifact – Databases](cs340-artifact.md)
+- [CS 300 Artifact – Algorithms and Data Structures](docs/cs300-artifact.md)
+- [CS 340 Artifact – Software Design and Engineering and Databases](docs/cs340-artifact.md)
 
 ## Overview
 These artifacts highlight my ability to design and enhance software solutions, work with algorithms and data structures, implement database-driven applications, and reflect on professional growth throughout the computer science program.
