@@ -34,24 +34,24 @@ This artifact comes from CS 340 and showcases full-stack software development an
 
 ---
 
-## Capstone Milestones (Narratives)
+# Capstone Milestones (Narratives)
 
 These documents represent the written milestone narratives submitted throughout the CS 499 capstone course.
 
-### Module One – Initial Planning
-- [CS 499 Module One Assignment](https://github.com/AdrianAg321/cs499-eportfolio/blob/main/docs/word/CS%20499%20Module%20One%20Assignment.docx)  
+## Module One – Initial Planning
+- [CS 499 Module One Assignment](docs/word/CS%20499%20Module%20One%20Assignment.docx)  
   This document outlines the initial ePortfolio plan, artifact selection, and alignment with program outcomes.
 
-### Milestone Two – Software Design and Engineering
-- [CS 499 Milestone Two](https://github.com/AdrianAg321/cs499-eportfolio/blob/main/docs/word/CS%20499%20Milestone%20Two.docx)  
+## Milestone Two – Software Design and Engineering
+- [CS 499 Milestone Two](docs/word/CS%20499%20Milestone%20Two.docx)  
   This narrative explains enhancements related to software architecture, maintainability, and design principles.
 
-### Milestone Three – Algorithms and Data Structures
-- [Milestone Three – Algorithms and Data Structures Enhancement](https://github.com/AdrianAg321/cs499-eportfolio/blob/main/docs/word/Milestone%20Three_%20Algorithms%20and%20Data%20Structures%20Enhancement.docx)  
+## Milestone Three – Algorithms and Data Structures
+- [Milestone Three – Algorithms and Data Structures Enhancement](docs/word/Milestone%20Three_%20Algorithms%20and%20Data%20Structures%20Enhancement.docx)  
   This milestone focuses on improving efficiency, data handling, and algorithmic structure.
 
-### Milestone Four – Databases
-- [CS 499 Milestone Four](https://github.com/AdrianAg321/cs499-eportfolio/blob/main/docs/word/CS%20499%20Milestone%20Four%20.docx)  
+## Milestone Four – Databases
+- [CS 499 Milestone Four](docs/word/CS%20499%20Milestone%20Four%20.docx)  
   This document discusses database integration, data persistence, and backend improvements.
 
 ---
