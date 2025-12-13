@@ -36,7 +36,7 @@ This artifact comes from CS 340 and showcases full-stack software development an
 
 # Capstone Milestones (Narratives)
 
-These documents represent the written milestone narratives submitted throughout the CS 499 capstone course.
+These documents represent the written milestone narratives submitted throughout the CS 499 capstone course. All milestone narratives are provided as downloadable Word documents.
 
 ## Module One – Initial Planning
 - [CS 499 Module One Assignment](docs/word/CS%20499%20Module%20One%20Assignment.docx)  
