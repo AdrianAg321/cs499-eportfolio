@@ -4,6 +4,14 @@ This repository contains my CS 499 Computer Science Capstone ePortfolio for Sout
 
 ---
 
+## Professional Self-Assessment
+- [Professional Self-Assessment](docs/self-assessment.md)
+
+This self-assessment reflects on my academic journey through the computer science program and explains how my artifacts demonstrate mastery of the five program outcomes, including problem-solving, software design, data management, and professional growth.
+
+
+---
+
 ## Code Review Video
 **Milestone One – Code Review**
 
@@ -12,14 +20,6 @@ This repository contains my CS 499 Computer Science Capstone ePortfolio for Sout
 This video provides a walkthrough and analysis of the original code artifacts selected for my capstone. I discuss existing functionality, identify weaknesses and limitations, and outline planned enhancements for each core computer science category.
 
 ---
-
-## Professional Self-Assessment
-- [Professional Self-Assessment](docs/self-assessment.md)
-
-This self-assessment reflects on my academic journey through the computer science program and explains how my artifacts demonstrate mastery of the five program outcomes, including problem-solving, software design, data management, and professional growth.
-
----
-
 ## Capstone Artifacts
 
 ### CS 300 Artifact – Algorithms and Data Structures
